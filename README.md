@@ -1,1 +1,1 @@
-# painter
+# painter-hs
